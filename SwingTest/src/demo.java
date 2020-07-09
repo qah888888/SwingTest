@@ -1,6 +1,8 @@
 
 public class demo {
-		private void name() {
-			
-		}
+<<<<<<< HEAD
+	
+=======
+    
+>>>>>>> branch 'master' of https://github.com/qah888888/SwingTest.git
 }
