@@ -93,7 +93,7 @@ public class DrawGraph extends JFrame
         init();
     }
 
-    // 点类，存点的横纵坐标
+    // 点类，存点的横纵坐标                 
     public class MyPoint
     {
         int x, y;
